@@ -1,0 +1,1 @@
+# sinema_büfe_satış uygulamasi
